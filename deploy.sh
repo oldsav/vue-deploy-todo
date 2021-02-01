@@ -3,6 +3,7 @@
 # остановить публикацию при ошибках
 set -e
 
+cd client
 # сборка
 npm run build
 
